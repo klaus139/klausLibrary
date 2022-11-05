@@ -27,7 +27,7 @@
     "morgan": "~1.9.1"
   },
   "main": "index.js",
-  "repository": "git@github.com:decadevs/week-6-pod_b-node-sq011-Aktive134.git",
+  "repository": "https://github.com/klaus139/klausLibrary",
   "author": "Nicholas Igunbor",
   "license": "MIT",
   "devDependencies": {
